@@ -1,2 +1,2 @@
 # Schematics
-![](killswitch_ind.pdf)
+![](killswitch_ind.svg)
